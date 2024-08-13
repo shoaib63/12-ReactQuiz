@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Quiz from "./components/Quiz";
+import MeQuiz from "./components/MeQuiz";
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
         <>
         <Header />
         <main>
-            <Quiz />
+            <MeQuiz />
 
         </main>
         </>
